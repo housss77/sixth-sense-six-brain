@@ -5,6 +5,9 @@ langchain-huggingface
 langchain-text-splitters
 sentence-transformers
 python-dotenv
+flask
 docx2txt
 pypdf
 chromadb
+fastapi
+uvicorn
