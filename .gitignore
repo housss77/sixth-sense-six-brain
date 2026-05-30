@@ -1,0 +1,19 @@
+# Secrets & Environment Variables
+.env
+
+# Vector Database (Local data folder)
+chroma_db/
+
+# Python virtual environment and cache
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# IDE files
+.vscode/
+.DS_Store
+
+# Large source files (optional, keeps your repo lightweight)
+# Six_Git_Sources/
